@@ -178,10 +178,17 @@ TextureImporter:
       name: pixel-art-buttons-set-vector-6439903_0
       rect:
         serializedVersion: 2
+<<<<<<< Updated upstream
         x: 67
         y: 926
         width: 326
         height: 100
+=======
+        x: 0
+        y: 0
+        width: 1000
+        height: 1080
+>>>>>>> Stashed changes
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,6 +196,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
+<<<<<<< Updated upstream
       spriteID: c0c96fa21c4d0ed4a82b236c0c58947f
       internalID: -134836137
       vertices: []
@@ -254,6 +262,10 @@ TextureImporter:
       bones: []
       spriteID: e8a5d9b27487deb47a986fd3fe1e6e57
       internalID: 1613792061
+=======
+      spriteID: 11ebd9fb572db3241bf0addb3af49990
+      internalID: -934881722
+>>>>>>> Stashed changes
       vertices: []
       indices: 
       edges: []
@@ -289,10 +301,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+<<<<<<< Updated upstream
       pixel-art-buttons-set-vector-6439903_0: -134836137
       pixel-art-buttons-set-vector-6439903_1: 312444968
       pixel-art-buttons-set-vector-6439903_2: 1519895389
       pixel-art-buttons-set-vector-6439903_3: 1613792061
+=======
+      pixel-art-buttons-set-vector-6439903_0: -934881722
+>>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
