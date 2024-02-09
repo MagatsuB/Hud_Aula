@@ -178,137 +178,35 @@ TextureImporter:
       name: pixel-art-buttons-set-vector-6439903_0
       rect:
         serializedVersion: 2
-<<<<<<< Updated upstream
-        x: 67
-        y: 926
-        width: 326
-        height: 100
-=======
         x: 0
         y: 0
-        width: 1000
-        height: 1080
->>>>>>> Stashed changes
+        width: 0
+        height: 0
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-<<<<<<< Updated upstream
-      spriteID: c0c96fa21c4d0ed4a82b236c0c58947f
-      internalID: -134836137
+      spriteID: 72967cd27d0a69020800000000000000
+      internalID: 2348241101766748455
       vertices: []
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: pixel-art-buttons-set-vector-6439903_1
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 925
-        width: 310
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe833dbbc2ccfd6419c47bfc2023ecd0
-      internalID: 312444968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pixel-art-buttons-set-vector-6439903_2
-      rect:
-        serializedVersion: 2
-        x: 444
-        y: 916
-        width: 254
-        height: 89
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac82629a53684244b8deb161d5564b45
-      internalID: 1519895389
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pixel-art-buttons-set-vector-6439903_3
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 534
-        width: 299
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8a5d9b27487deb47a986fd3fe1e6e57
-      internalID: 1613792061
-=======
-      spriteID: 11ebd9fb572db3241bf0addb3af49990
-      internalID: -934881722
->>>>>>> Stashed changes
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    outline:
-    - - {x: -428, y: 384}
-      - {x: -428, y: 468}
-      - {x: -103, y: 468}
-      - {x: -103, y: 384}
-    physicsShape:
-    - - {x: -424, y: 380}
-      - {x: -423, y: 466}
-      - {x: -111, y: 468}
-      - {x: -108, y: 388}
-    - - {x: -56.673462, y: 363.44965}
-      - {x: -56.673462, y: 469.40448}
-      - {x: 205.74957, y: 469.40448}
-      - {x: 205.74957, y: 363.44965}
-    - - {x: -78.640564, y: 247.94568}
-      - {x: -76.07532, y: 324.6424}
-      - {x: 208.21362, y: 327.7207}
-      - {x: 208.21362, y: 246.40656}
-    - - {x: -426.2834, y: 266.11908}
-      - {x: -426.2834, y: 338.80902}
-      - {x: -122.39255, y: 335.1386}
-      - {x: -124.58963, y: 266.60162}
+    outline: []
+    physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-<<<<<<< Updated upstream
-      pixel-art-buttons-set-vector-6439903_0: -134836137
-      pixel-art-buttons-set-vector-6439903_1: 312444968
-      pixel-art-buttons-set-vector-6439903_2: 1519895389
-      pixel-art-buttons-set-vector-6439903_3: 1613792061
-=======
-      pixel-art-buttons-set-vector-6439903_0: -934881722
->>>>>>> Stashed changes
+      pixel-art-buttons-set-vector-6439903_0: 2348241101766748455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
