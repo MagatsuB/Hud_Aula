@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641275, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -321,7 +321,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e46ce0baaa1d174ab0ec13dce93edd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _menucontrol: []
+  _menucontrol:
+  - {fileID: 1721286618}
+  - {fileID: 889343754}
 --- !u!1 &198403276
 GameObject:
   m_ObjectHideFlags: 0
@@ -1682,7 +1684,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1555495932}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 169735201}
+        m_TargetAssemblyTypeName: Hud_Controller, Assembly-CSharp
+        m_MethodName: ChamarMenuControl
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1555495932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1905,7 +1919,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1719855706}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 169735201}
+        m_TargetAssemblyTypeName: Hud_Controller, Assembly-CSharp
+        m_MethodName: ChamarMenuControl
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1719855706
 MonoBehaviour:
   m_ObjectHideFlags: 0
